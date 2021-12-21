@@ -1,6 +1,6 @@
 ### HERE IS WHAT I AM WORKING ON  👋
 
-<!--
+
 **BochraCHEMAM/BochraCHEMAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin or twitter(https://twitter.com/ChemamBochra)
 - 😄 Pronouns: she/ hers
 - ⚡ Fun fact: 
--->
