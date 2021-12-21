@@ -1,8 +1,6 @@
 ### HERE IS WHAT I AM WORKING ON  👋
 
 
-**BochraCHEMAM/BochraCHEMAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MY PHD PROJECT RELATED TO MACHINE LEARNING 
