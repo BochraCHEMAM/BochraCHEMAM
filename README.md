@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with RL
 - 💬 Ask me about statistics and related 
-- 📫 How to reach me: linkedin or twitter(https://twitter.com/ChemamBochra)
+- 📫 How to reach me: linkedin or twitter(@ChemamBochra)
 - 😄 Pronouns: she/ hers
 - ⚡ Fun fact: 
